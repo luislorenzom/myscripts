@@ -1,3 +1,6 @@
+# myscripts
+Useful scripts written in bash and python
+
 ## Rasic
 Script which removes and copy new songs in you android device
 
